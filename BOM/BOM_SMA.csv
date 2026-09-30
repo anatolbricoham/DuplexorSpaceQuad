@@ -1,0 +1,11 @@
+Ref,Cant,Valor (esquema),Valor optimizado (recomendado),Encapsulado,Tipo recomendado
+L1 L3,2,68nH,68nH,0805,Inductor cerámico alta Q (p.ej. Coilcraft 0805CS-680XJL)
+L2,1,100nH,100nH,0805,Inductor cerámico alta Q (p.ej. Coilcraft 0805CS-101XJL)
+L4 L5,2,15nH,15nH,0805,Inductor cerámico alta Q (p.ej. Coilcraft 0805CS-150XJL)
+C1 C2,2,18pF,18pF,0805,C0G/NP0 >=100V alta Q
+C3 C5,2,4.7pF,8.2pF,0805,C0G/NP0 >=100V alta Q
+C4,1,2.7pF,4.7pF,0805,C0G/NP0 >=100V alta Q
+J1 J2 J3,3,SMA,,,Amphenol 132289 (SMA hembra; montaje en canto; PCB 1.6 mm; con tuerca de panel)
+H1 H2,2,M2,,,Taladro 2.2 mm metalizado a masa
+CAJA,1,,,,Caja impresa 3D (enclosure/stl/caja_sma_base.stl + _tapa.stl)
+TORNILLO,2,,,,M2 cabeza cilíndrica/alomada autorroscante: M2x10

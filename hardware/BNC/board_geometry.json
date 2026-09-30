@@ -1,0 +1,41 @@
+{
+ "variant": "BNC",
+ "board": [
+  55.5,
+  33.0
+ ],
+ "thickness": 1.6,
+ "holes": [
+  [
+   22.8,
+   16.5
+  ],
+  [
+   32.8,
+   16.5
+  ]
+ ],
+ "connectors": [
+  {
+   "ref": "J1",
+   "x": 12.7,
+   "y": 16.5,
+   "side": "left",
+   "label": "RADIO"
+  },
+  {
+   "ref": "J2",
+   "x": 42.8,
+   "y": 8.0,
+   "side": "right",
+   "label": "2m"
+  },
+  {
+   "ref": "J3",
+   "x": 42.8,
+   "y": 25.0,
+   "side": "right",
+   "label": "70cm"
+  }
+ ]
+}

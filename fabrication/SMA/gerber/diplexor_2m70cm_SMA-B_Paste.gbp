@@ -1,0 +1,29 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.11+dfsg-1build4*
+G04 #@! TF.CreationDate,2026-09-30T09:07:17+02:00*
+G04 #@! TF.ProjectId,diplexor_2m70cm_SMA,6469706c-6578-46f7-925f-326d3730636d,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Paste,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.11+dfsg-1build4) date 2026-09-30 09:07:17*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,4.730000X1.500000*%
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.C,J1*
+X102540000Y-115750000D03*
+X102540000Y-107250000D03*
+G04 #@! TD*
+G04 #@! TO.C,J2*
+X134460000Y-101250000D03*
+X134460000Y-109750000D03*
+G04 #@! TD*
+G04 #@! TO.C,J3*
+X134460000Y-113250000D03*
+X134460000Y-121750000D03*
+G04 #@! TD*
+M02*

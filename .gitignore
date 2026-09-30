@@ -1,0 +1,19 @@
+# KiCad
+*-backups/
+*.kicad_prl
+*.bak
+*.bck
+*-bak
+_autosave-*
+~*.lck
+*.lck
+fp-info-cache
+*.kicad_sch-bak
+# OpenSCAD / temporales
+*.stl.tmp
+*.3mf.tmp
+# Python / SO
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

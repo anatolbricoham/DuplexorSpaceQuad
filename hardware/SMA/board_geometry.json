@@ -1,0 +1,41 @@
+{
+ "variant": "SMA",
+ "board": [
+  37.0,
+  23.0
+ ],
+ "thickness": 1.6,
+ "holes": [
+  [
+   14.4,
+   11.5
+  ],
+  [
+   24.4,
+   11.5
+  ]
+ ],
+ "connectors": [
+  {
+   "ref": "J1",
+   "x": 2.54,
+   "y": 11.5,
+   "side": "left",
+   "label": "RADIO"
+  },
+  {
+   "ref": "J2",
+   "x": 34.46,
+   "y": 5.5,
+   "side": "right",
+   "label": "2m"
+  },
+  {
+   "ref": "J3",
+   "x": 34.46,
+   "y": 17.5,
+   "side": "right",
+   "label": "70cm"
+  }
+ ]
+}

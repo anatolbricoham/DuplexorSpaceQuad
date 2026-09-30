@@ -1,0 +1,19 @@
+*.stl        binary
+*.png        binary
+*.zip        binary
+*.gbr        text eol=lf
+*.gtl  text eol=lf
+*.gbl  text eol=lf
+*.gts  text eol=lf
+*.gbs  text eol=lf
+*.gto  text eol=lf
+*.gbo  text eol=lf
+*.gtp  text eol=lf
+*.gbp  text eol=lf
+*.gm1  text eol=lf
+*.drl  text eol=lf
+*.gbrjob  text eol=lf
+*.kicad_pcb  text eol=lf
+*.kicad_pro  text eol=lf
+*.scad       text eol=lf
+*.sh         text eol=lf

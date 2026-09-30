@@ -1,0 +1,19 @@
+** Drc report for  **
+** Created on 2026-09-30 09:07:19 **
+
+** Found 3 DRC violations **
+[lib_footprint_mismatch]: Footprint 'BNC_Amphenol_B6252HB-NPP3G-50_Horizontal' does not match copy in library 'Connector_Coaxial'.
+    Local override; Severity: warning
+    @(142.8000 mm, 125.0000 mm): Footprint J3
+[lib_footprint_mismatch]: Footprint 'BNC_Amphenol_B6252HB-NPP3G-50_Horizontal' does not match copy in library 'Connector_Coaxial'.
+    Local override; Severity: warning
+    @(142.8000 mm, 108.0000 mm): Footprint J2
+[lib_footprint_mismatch]: Footprint 'BNC_Amphenol_B6252HB-NPP3G-50_Horizontal' does not match copy in library 'Connector_Coaxial'.
+    Local override; Severity: warning
+    @(112.7000 mm, 116.5000 mm): Footprint J1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

@@ -1,0 +1,19 @@
+** Drc report for  **
+** Created on 2026-09-30 09:07:17 **
+
+** Found 3 DRC violations **
+[lib_footprint_mismatch]: Footprint 'SMA_Amphenol_132289_EdgeMount' does not match copy in library 'Connector_Coaxial'.
+    Local override; Severity: warning
+    @(134.4600 mm, 117.5000 mm): Footprint J3
+[lib_footprint_mismatch]: Footprint 'SMA_Amphenol_132289_EdgeMount' does not match copy in library 'Connector_Coaxial'.
+    Local override; Severity: warning
+    @(134.4600 mm, 105.5000 mm): Footprint J2
+[lib_footprint_mismatch]: Footprint 'SMA_Amphenol_132289_EdgeMount' does not match copy in library 'Connector_Coaxial'.
+    Local override; Severity: warning
+    @(102.5400 mm, 111.5000 mm): Footprint J1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
